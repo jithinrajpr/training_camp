@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="icon" value="TEST_ROOT" />
+          <option name="id" value="1f85d732-d84a-4535-9448-27d7e40b78b6" />
+          <option name="name" value="New Test Suite" />
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="$PROJECT_DIR$/.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+          <option name="testSuite" value="true" />
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="4a3abe8c-1fc9-459e-8a06-d7f5422b4a71" />
+  </component>
+</project>
