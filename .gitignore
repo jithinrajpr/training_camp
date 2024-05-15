@@ -2,4 +2,11 @@ node-server-app-01/node_modules
 node-server-app-02/node_modules
 node-server-app-01/.idea/vcs.xml
 node-server-app-02/.idea/vcs.xml
+node-handlebar-lab/node_modules
+node-file-upload/node_modules
+node-handlebar-lab/.idea/vcs.xml
+node-file-upload/.idea/vcs.xml
+node-file-upload/uploads/
+
+
 .idea/vcs.xml
